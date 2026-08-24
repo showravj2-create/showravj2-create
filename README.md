@@ -1,10 +1,8 @@
- Hi, I'm Showrav 👋
-
 Mathematics Graduate | Machine Learning & AI | Deep Learning • Computer Vision • NLP
 
-I'm a Mathematics graduate with a growing focus on Machine Learning, Artificial Intelligence, and computational methods.
 
-My background in mathematics has motivated me to explore how mathematical and computational techniques can be utilized to solve real-life problems. I am currently developing my skills through independent projects and hands-on work with machine learning and deep learning frameworks.
+
+My curiosity about how mathematical and computational methods can be applied to real-world issues has been sparked by mathematics. I'm currently honing my abilities through independent projects and practical work with deep learning and machine learning frameworks.
 
 I'm particularly interested in developing toward AI research, especially at the intersection of mathematics, machine learning, and intelligent systems.
 
@@ -19,7 +17,7 @@ I'm particularly interested in developing toward AI research, especially at the 
 - Applied Mathematics
 - Computational Methods
 
-I'm especially interested in understanding not only how models perform, but also why they work, how they can be improved, and how computational methods can be applied to meaningful real-world problems.
+I'm particularly interested in understanding not only how models perform, but also why they work, how they can be improved, and how computational methods can be applied to meaningful real-world problems.
 
 ---
 
@@ -48,16 +46,6 @@ Tools
 - GitHub
 - Jupyter Notebook
 - Google Colab
-
----
-
-📌 Selected Projects
-
-🐟 Fish Farming Cost & Profile Prediction
-
-A data-driven machine learning project focused on analyzing and predicting factors related to fish farming, including production, cost, yield, and profitability.
-
-Focus: Data Analysis • Machine Learning • Prediction • Real-world Applications
 
 ---
 
@@ -98,9 +86,9 @@ Focus: Computer Vision • NLP • Python
 
 🎯 Research Goal
 
-My long-term goal is to pursue research in Computer Science and Artificial Intelligence, building on my mathematical background and developing deeper expertise in machine learning and computational methods.
+My long-term goal is to conduct research in computer science and artificial intelligence, expanding on my mathematical background and gaining a deeper understanding of machine learning and computational methods.
 
-I am particularly interested in opportunities where I can contribute to research while continuing to develop my theoretical and practical understanding of AI.
+I am particularly interested in opportunities to contribute to research while expanding my theoretical and practical knowledge of AI.
 
 ---
 
@@ -114,7 +102,7 @@ I'm continuously improving these projects by adding better documentation, experi
 
 🤝 Let's Connect
 
-I'm interested in connecting with researchers, students, and developers working in Machine Learning, Artificial Intelligence, Computer Vision, NLP, and related computational fields.
+I'd like to connect with researchers, students, and developers working in machine learning, artificial intelligence, computer vision, natural language processing, and other computational fields.
 
 - 💻 GitHub: "@showravj2-create" (https://github.com/showravj2-create)
 - 📧 Email: showravj2@gmail.com
