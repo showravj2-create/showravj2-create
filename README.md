@@ -79,6 +79,12 @@ Focus: Data Preprocessing • Exploratory Data Analysis • Classification • M
 
 ---
 
+Data-Efficient Neural Operators for Compressible Flow
+
+A research-oriented project inspired by Ahmad Peyvan's work on RiemannONets, neural operators, and data-efficient surrogates for high-speed flow.
+
+---
+
 🎓 Student Performance Prediction
 
 A machine learning project investigating factors associated with student academic performance and building predictive models from educational data.
