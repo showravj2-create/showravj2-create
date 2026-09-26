@@ -29,18 +29,18 @@ Programming
 - Fortran
 - Mathematica
 
-Data Science & Machine Learning
+📊 Data Science & Machine Learning
 
 - NumPy
 - Pandas
 - scikit-learn
 
-Deep Learning
+📚 Deep Learning
 
 - PyTorch
 - TensorFlow
 
-Tools
+⚙️ Tools
 
 - Git
 - GitHub
@@ -79,7 +79,7 @@ Focus: Data Preprocessing • Exploratory Data Analysis • Classification • M
 
 ---
 
-Data-Efficient Neural Operators for Compressible Flow
+📊🛜 Data-Efficient Neural Operators for Compressible Flow
 
 A research-oriented project inspired by Ahmad Peyvan's work on RiemannONets, neural operators, and data-efficient surrogates for high-speed flow.
 
