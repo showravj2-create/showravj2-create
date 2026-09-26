@@ -2,9 +2,9 @@ Mathematics Graduate | Machine Learning & AI | Deep Learning • Computer Vision
 
 
 
-My curiosity about how mathematical and computational methods can be applied to real-world issues has been sparked by mathematics. I'm currently honing my abilities through independent projects and practical work with deep learning and machine learning frameworks.
+How can mathematical and computational methods can be applied to real-world issues? Isn't this question comes in the mind of all math_grad? To find more about this I tend to do active research in pursuit of which I'm currently honing my abilities through independent projects and practical work with deep learning and machine learning frameworks.
 
-I'm particularly interested in developing toward AI research, especially at the intersection of mathematics, machine learning, and intelligent systems.
+I'm particularly interested in developing toward AI research, especially at the intersection of mathematics, machine learning, computer vision and intelligent systems.
 
 ---
 
@@ -46,6 +46,28 @@ Tools
 - GitHub
 - Jupyter Notebook
 - Google Colab
+
+---
+
+🩺 NeuroSeg-U: Robust Brain Tumor Segmentation with U-Net
+
+A research project designed to move beyond a classroom U-Net implementation by including patient-level splitting, leakage checks, robust preprocessing,
+composite losses, uncertainty estimation, ablations, calibration, statistical reporting, and comparison against a modern self-configuring segmentation baseline.
+
+---
+
+🔎DarkPatternVision 
+
+A research-oriented framework that crawls web pages, captures screenshots and DOM/text, detects UI components, analyzes manipulative language, 
+and fuses visual + textual evidence into an interpretable dark-pattern risk score.
+
+---
+
+🩺Multi-Modal Deep Clustering Survival Machines — Research Reimplementation
+
+Multi-Modal Deep Clustering Survival Machines for Alzheimer’s Disease Subtype Discovery
+Wen et al., IEEE International Conference on Computer Vision Workshops, 2025.
+DOI: 10.1109/ICCVW69036.2025.00239
 
 ---
 
