@@ -2,7 +2,7 @@ Mathematics Graduate | Machine Learning & AI | Deep Learning • Computer Vision
 
 
 
-How can mathematical and computational methods can be applied to real-world issues? Isn't this question comes in the mind of all math_grad? To find more about this I tend to do active research in pursuit of which I'm currently honing my abilities through independent projects and practical work with deep learning and machine learning frameworks.
+How can mathematical and computational methods be applied to real-world issues? Doesn't this question come in the mind of all math_grad? To find more about it I tend to do active research in pursuit of which I'm currently honing my abilities through independent projects and practical work with deep learning and machine learning frameworks.
 
 I'm particularly interested in developing toward AI research, especially at the intersection of mathematics, machine learning, computer vision and intelligent systems.
 
